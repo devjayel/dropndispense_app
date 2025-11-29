@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">DropNDispense</string>
+
+    <!-- Auth Screens -->
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="create_your_account">Create Your Account</string>
+    <string name="reset_your_password">Reset Your Password</string>
+
+    <!-- Navigation -->
+    <string name="title_home">Home</string>
+    <string name="title_parcels">Parcels</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard">Dashboard</string>
+    <string name="pending">Pending</string>
+    <string name="on_the_way">On The Way</string>
+    <string name="delivered">Delivered</string>
+
+    <!-- Parcels -->
+    <string name="parcels">Parcels</string>
+    <string name="add_parcel">Add Parcel</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="tracking_number">Tracking Number</string>
+    <string name="delivery_date">Delivery Date (Estimation)</string>
+    <string name="platform">Platform</string>
+    <string name="lazada">Lazada</string>
+    <string name="shopee">Shopee</string>
+    <string name="save_parcel">Save Parcel</string>
+    <string name="platform_icon">Platform Icon</string>
+    <string name="more_options">More Options</string>
+    <string name="error_loading_parcels">Failed to load parcels</string>
+    <string name="retry">Retry</string>
+
+    <!-- Profile -->
+    <string name="profile">Profile</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="name">Name</string>
+    <string name="hardware_serial">Hardware Serial Number</string>
+    <string name="create_account">Create Account</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="dont_have_account">Don\'t have an account? Register here</string>
+    <string name="already_have_account">Already have an account? Login here</string>
+    <string name="back_to_login">Back to Login</string>
+
+    <!-- Progress and Error Messages -->
+    <string name="loading">Please wait…</string>
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="error_password_short">Password must be at least 6 characters</string>
+    <string name="error_passwords_dont_match">Passwords don\'t match</string>
+    <string name="error_hardware_serial_invalid">Invalid hardware serial number</string>
+    <string name="error_hardware_serial_used">This hardware serial number is already in use</string>
+    <string name="error_login_failed">Login failed. Please check your credentials.</string>
+    <string name="error_registration_failed">Registration failed. Please try again.</string>
+    <string name="error_reset_password_failed">Failed to send reset password email.</string>
+    <string name="success_reset_password">Password reset instructions sent to your email.</string>
+</resources>

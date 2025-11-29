@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <!-- Force light theme even when system is in dark mode by using Light parent here too -->
+    <style name="Base.Theme.DropNDispense" parent="Theme.Material3.Light.NoActionBar">
+        <!-- dark-night variant overridden to stay light -->
+    </style>
+</resources>

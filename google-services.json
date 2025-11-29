@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946128891907",
+    "project_id": "dropndispense",
+    "storage_bucket": "dropndispense.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946128891907:android:9cd3f0ce69144775cd5e36",
+        "android_client_info": {
+          "package_name": "com.fuxdevs.dropndispense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4luVjUmDRUK_tQobKVVb1b4VXB0vwre0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
